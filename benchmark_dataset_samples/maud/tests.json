@@ -1,0 +1,79 @@
+{
+  "tests": [
+    {
+      "query": "Consider the Acquisition Agreement between Parent \"Centene Corporation\" and Target \"Magellan Health, Inc.\"; What is the Type of Consideration",
+      "snippets": [
+        {
+          "file_path": "maud/Magellan Health, Inc._Centene Corporation.txt",
+          "span": [
+            10375,
+            10824
+          ],
+          "answer": "(ii)           each share of Company Common Stock issued and outstanding immediately prior to the Effective Time (except for shares of Company Common Stock to be canceled under Section 2.1(a)(i), Appraisal Shares, Company RSAs and Company Director RSAs) (each, a “Converted Share”) shall be automatically canceled and shall cease to exist and shall be converted into the right to receive $95.00 in cash, without interest (the “Merger Consideration”)",
+          "context_excerpt": {
+            "span": [
+              9775,
+              11424
+            ],
+            "text": "n Capital Stock of the Company and Merger Sub.   (a)          At the Effective Time, by virtue of the Merger and without any action by any Party or any other Person (including the Company Stockholders):   (i)            all shares of Company Common Stock that are owned of record or Beneficially Owned by Parent, Merger Sub or the Company (including as treasury stock or otherwise), and, in each case, not held on behalf of third parties, immediately prior to the Effective Time shall be automatically canceled and shall cease to exist and no consideration shall be delivered in exchange therefor;   (ii)           each share of Company Common Stock issued and outstanding immediately prior to the Effective Time (except for shares of Company Common Stock to be canceled under Section 2.1(a)(i), Appraisal Shares, Company RSAs and Company Director RSAs) (each, a “Converted Share”) shall be automatically canceled and shall cease to exist and shall be converted into the right to receive $95.00 in cash, without interest (the “Merger Consideration”); and   (iii)          each share of common stock, par value $0.01 per share, of Merger Sub issued and outstanding immediately prior to the Effective Time shall be converted into and become one (1) validly issued, fully paid and nonassessable share of common stock, par value $0.01 per share, of the Surviving Corporation.   (b)          As of the Effective Time, each holder of (i) a certificate that immediately prior to the Effective Time represented any share of Company Common Stock (each, a “Certificate”) or (ii) any share of Company Common Stock held in book-entry form (each, a “Book-Entry S"
+          }
+        }
+      ]
+    },
+    {
+      "query": "Consider the Acquisition Agreement between Parent \"Centene Corporation\" and Target \"Magellan Health, Inc.\"; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date",
+      "snippets": [
+        {
+          "file_path": "maud/Magellan Health, Inc._Centene Corporation.txt",
+          "span": [
+            62697,
+            62803
+          ],
+          "answer": "Section 3.6          Absence of Certain Changes or Events. From December 31, 2019, through the date hereof",
+          "context_excerpt": {
+            "span": [
+              62097,
+              63403
+            ],
+            "text": "ts, statements and schedules thereto (the “Company Subsidiary Statements”). The Company Subsidiary Statements fairly present, in all material respects, the respective financial condition of each such Company Regulated Subsidiary at the respective dates thereof and the results of operations for the periods then ended under applicable accounting rules applied on a consistent basis throughout the periods indicated and consistent with each other, except as otherwise specifically noted therein (subject to normal and recurring year-end adjustments in the case of any interim statements).   \n\n17\n\n\n\n\n\nSection 3.6          Absence of Certain Changes or Events. From December 31, 2019, through the date hereof, (a) except for the Company’s negotiation of, and entry into, this Agreement, the consummation of the transactions contemplated by the MCC Transaction Agreement and the consummation of the transactions contemplated hereby, the Company Entities have conducted their businesses (taken as a whole) in the Ordinary Course of Business in all material respects, and (b) neither a Company Material Adverse Effect nor any Effect that would reasonably be expected to result in, individually or in the aggregate, a Company Material Adverse Effect has occurred.   Section 3.7          Actions. Except as has no"
+          }
+        },
+        {
+          "file_path": "maud/Magellan Health, Inc._Centene Corporation.txt",
+          "span": [
+            63164,
+            63357
+          ],
+          "answer": "(b) neither a Company Material Adverse Effect nor any Effect that would reasonably be expected to result in, individually or in the aggregate, a Company Material Adverse Effect has occurred.   ",
+          "context_excerpt": {
+            "span": [
+              62564,
+              63957
+            ],
+            "text": "specifically noted therein (subject to normal and recurring year-end adjustments in the case of any interim statements).   \n\n17\n\n\n\n\n\nSection 3.6          Absence of Certain Changes or Events. From December 31, 2019, through the date hereof, (a) except for the Company’s negotiation of, and entry into, this Agreement, the consummation of the transactions contemplated by the MCC Transaction Agreement and the consummation of the transactions contemplated hereby, the Company Entities have conducted their businesses (taken as a whole) in the Ordinary Course of Business in all material respects, and (b) neither a Company Material Adverse Effect nor any Effect that would reasonably be expected to result in, individually or in the aggregate, a Company Material Adverse Effect has occurred.   Section 3.7          Actions. Except as has not resulted in and would not reasonably be expected to result in, individually or in the aggregate, a Company Material Adverse Effect, (a) there are no Actions, and, since December 31, 2017, there have been no Actions, pending or, to the Company’s Knowledge, threatened against any Company Entity or any officer, director, employee or agent thereof in his, her or its capacity as such, and (b) none of the Company Entities or any of their respective officers, directors, employees or agents in their respective capacity as such are subject to any Order un"
+          }
+        }
+      ]
+    },
+    {
+      "query": "Consider the Acquisition Agreement between Parent \"CNH Industrial N.V.\" and Target \"Raven Industries, Inc.\"; What is the Type of Consideration",
+      "snippets": [
+        {
+          "file_path": "maud/Raven Industries, Inc._CNH Industrial N.V..txt",
+          "span": [
+            33254,
+            34096
+          ],
+          "answer": "Section 2.02. Conversion of Shares. At the Effective Time, by virtue of the Merger and without any action on the part of Parent, Merger Subsidiary, the Company or the holders of any shares of Company Stock or any shares of capital stock of Parent or Merger Subsidiary: (a) Except as otherwise provided in Section 2.02(b) or Section 2.02(c), each share of Company Stock outstanding immediately prior to the Effective Time shall be converted into the right to receive $58.00 in cash, without interest (such per share amount, the “Merger Consideration”). As of the Effective Time, all such shares of Company Stock shall no longer be outstanding and shall automatically be canceled and retired and shall cease to exist, and shall thereafter represent only the right to receive the Merger Consideration to be paid in accordance with Section 2.03. ",
+          "context_excerpt": {
+            "span": [
+              32654,
+              34696
+            ],
+            "text": "erger. The Merger shall become effective at such time (the “Effective Time”) as the articles of merger are duly filed with the South Dakota Secretary of State (or at such later time as may be mutually agreed by the Company and Parent and specified in the articles of merger). (d) From and after the Effective Time, the Surviving Corporation shall possess all the rights, powers, privileges and franchises and be subject to all of the obligations, liabilities, restrictions and disabilities of the Company and Merger Subsidiary, all as provided under South Dakota Law.   11\n\n\n\n\n\n\n\n\n________________\n\n\nSection 2.02. Conversion of Shares. At the Effective Time, by virtue of the Merger and without any action on the part of Parent, Merger Subsidiary, the Company or the holders of any shares of Company Stock or any shares of capital stock of Parent or Merger Subsidiary: (a) Except as otherwise provided in Section 2.02(b) or Section 2.02(c), each share of Company Stock outstanding immediately prior to the Effective Time shall be converted into the right to receive $58.00 in cash, without interest (such per share amount, the “Merger Consideration”). As of the Effective Time, all such shares of Company Stock shall no longer be outstanding and shall automatically be canceled and retired and shall cease to exist, and shall thereafter represent only the right to receive the Merger Consideration to be paid in accordance with Section 2.03. (b) Each share of Company Stock held by the Company as treasury stock or owned by Parent immediately prior to the Effective Time (other than shares held for the account of third parties) shall be canceled, and no payment shall be made with respect thereto. (c) Each share of Company Stock held by any Subsidiary of either the Company or Parent immediately prior to the Effective Time shall be converted into such number of shares of stock of the Surviving Corporation such that each such Subsidiary owns the same percentage of the outstanding capital stock in the Surviving Corporation immediately fo"
+          }
+        }
+      ]
+    }
+  ]
+}

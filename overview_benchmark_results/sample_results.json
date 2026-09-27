@@ -1,0 +1,1808 @@
+{
+  "baseline-rcts-500-ownsplitter": [
+    {
+      "query": "Consider the Agreement between SE_NDCA and PRE-QUAL PACKAGE; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+      "tags": [
+        "contractnli"
+      ],
+      "precision": 0.0701252236135957,
+      "recall": 1.0,
+      "retrieved_chars": 2795,
+      "retrieved_snippets": [
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            13105,
+            13435
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "contractnli/sample-nrel-bilateral-nda-template.txt",
+          "span": [
+            7500,
+            7964
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+          "span": [
+            8944,
+            9346
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            13817,
+            14141
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            12900,
+            13105
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
+          "span": [
+            4566,
+            4996
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+          "span": [
+            3827,
+            4167
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+          "span": [
+            5411,
+            5711
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Non-Disclosure Agreement between CEII and NDA; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+      "tags": [
+        "contractnli"
+      ],
+      "precision": 0.0,
+      "recall": 0.0,
+      "retrieved_chars": 2836,
+      "retrieved_snippets": [
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            9841,
+            10306
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            7237,
+            7714
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            9673,
+            9841
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "contractnli/sample-nrel-bilateral-nda-template.txt",
+          "span": [
+            6651,
+            7117
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            13105,
+            13435
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            7714,
+            8184
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            3327,
+            3463
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            13817,
+            14141
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Strategic Alliance Agreement between Sucampo Pharmaceuticals, Inc., Sucampo Pharma, LLC, and R-Tech Ueno, Ltd.; What is the governing law for this contract?",
+      "tags": [
+        "cuad"
+      ],
+      "precision": 0.03555010726325467,
+      "recall": 1.0,
+      "retrieved_chars": 3263,
+      "retrieved_snippets": [
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            0,
+            459
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            1888,
+            2349
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            61890,
+            62272
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            20673,
+            21057
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            22191,
+            22686
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            52602,
+            53071
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            58830,
+            59107
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+          "span": [
+            250611,
+            250947
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Service Agreement between BicycleTX Ltd and Nigel Crockett for Chief Business Officer Position; What is the expiration date of this contract?",
+      "tags": [
+        "cuad"
+      ],
+      "precision": 0.0,
+      "recall": 0.0,
+      "retrieved_chars": 2648,
+      "retrieved_snippets": [
+        {
+          "file_path": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+          "span": [
+            0,
+            260
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+          "span": [
+            260,
+            689
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+          "span": [
+            56314,
+            56767
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "cuad/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+          "span": [
+            49257,
+            49724
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "cuad/CANOPETROLEUM,INC_12_13_2007-EX-10.1-Sponsorship Agreement.txt",
+          "span": [
+            3525,
+            3663
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+          "span": [
+            7453,
+            7831
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+          "span": [
+            112098,
+            112296
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+          "span": [
+            281553,
+            281878
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Acquisition Agreement between Parent \"Project Quick Parent, LLC\" and Target \"QAD Inc.\"; What is the Definition of \"Knowledge\"",
+      "tags": [
+        "maud"
+      ],
+      "precision": 0.05732484076433121,
+      "recall": 1.0,
+      "retrieved_chars": 2983,
+      "retrieved_snippets": [
+        {
+          "file_path": "maud/Inovalon_Holdings_Management_Led_Buyout.txt",
+          "span": [
+            37390,
+            37754
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+          "span": [
+            307909,
+            308361
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+          "span": [
+            248188,
+            248386
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "maud/TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.txt",
+          "span": [
+            40214,
+            40529
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+          "span": [
+            308084,
+            308410
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+          "span": [
+            311737,
+            312189
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+          "span": [
+            41332,
+            41725
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "maud/QAD Inc._Thoma Bravo, L.P..txt",
+          "span": [
+            32743,
+            33226
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Acquisition Agreement between Parent \"BridgeBio Pharma, Inc.\" and Target \"Eidos Therapeutics, Inc.\"; What is the Type of Consideration",
+      "tags": [
+        "maud"
+      ],
+      "precision": 0.0,
+      "recall": 0.0,
+      "retrieved_chars": 1954,
+      "retrieved_snippets": [
+        {
+          "file_path": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+          "span": [
+            5432,
+            5813
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+          "span": [
+            0,
+            451
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+          "span": [
+            92775,
+            93152
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+          "span": [
+            37545,
+            37683
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "maud/Inovalon_Holdings_Management_Led_Buyout.txt",
+          "span": [
+            69600,
+            69702
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+          "span": [
+            17964,
+            18074
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+          "span": [
+            22033,
+            22058
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+          "span": [
+            12674,
+            13044
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider \"Viber Messenger\"'s privacy policy; who will be able to see my information and/or the messages that i send?",
+      "tags": [
+        "privacy_qa"
+      ],
+      "precision": 0.08034137728075338,
+      "recall": 1.0,
+      "retrieved_chars": 3398,
+      "retrieved_snippets": [
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            2767,
+            3244
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            1655,
+            2107
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            15531,
+            15925
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            16767,
+            17244
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            500,
+            900
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            27102,
+            27543
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            23463,
+            23805
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            24558,
+            24973
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider \"Fiverr\"'s privacy policy; who can see which tasks i hire workers for?",
+      "tags": [
+        "privacy_qa"
+      ],
+      "precision": 0.0,
+      "recall": 0.0,
+      "retrieved_chars": 2942,
+      "retrieved_snippets": [
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            2557,
+            3003
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            0,
+            173
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            12571,
+            12942
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            23852,
+            24197
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            3003,
+            3358
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            1810,
+            2249
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            25074,
+            25422
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            18904,
+            19369
+          ],
+          "score": 0.125
+        }
+      ]
+    }
+  ],
+  "baseline-rcts-500": [
+    {
+      "query": "Consider the Agreement between SE_NDCA and PRE-QUAL PACKAGE; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+      "tags": [
+        "contractnli"
+      ],
+      "precision": 0.06310367031551835,
+      "recall": 1.0,
+      "retrieved_chars": 3106,
+      "retrieved_snippets": [
+        {
+          "file_path": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+          "span": [
+            8943,
+            9345
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "contractnli/sample-nrel-bilateral-nda-template.txt",
+          "span": [
+            7499,
+            7963
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
+          "span": [
+            4565,
+            4995
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            13104,
+            13434
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
+          "span": [
+            5852,
+            6318
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            5131,
+            5481
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+          "span": [
+            3826,
+            4166
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            13816,
+            14140
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Non-Disclosure Agreement between CEII and NDA; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?",
+      "tags": [
+        "contractnli"
+      ],
+      "precision": 0.0,
+      "recall": 0.0,
+      "retrieved_chars": 2956,
+      "retrieved_snippets": [
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            9840,
+            10305
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            7236,
+            7713
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            9672,
+            9840
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "contractnli/sample-nrel-bilateral-nda-template.txt",
+          "span": [
+            6650,
+            7116
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            13816,
+            14140
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+          "span": [
+            8192,
+            8642
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            7713,
+            8183
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            3326,
+            3462
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Strategic Alliance Agreement between Sucampo Pharmaceuticals, Inc., Sucampo Pharma, LLC, and R-Tech Ueno, Ltd.; What is the governing law for this contract?",
+      "tags": [
+        "cuad"
+      ],
+      "precision": 0.033987694110753,
+      "recall": 1.0,
+      "retrieved_chars": 3413,
+      "retrieved_snippets": [
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            1887,
+            2348
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            0,
+            457
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            61888,
+            62272
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            20672,
+            21056
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            22190,
+            22685
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            52600,
+            53069
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+          "span": [
+            58829,
+            59106
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+          "span": [
+            756978,
+            757464
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Service Agreement between BicycleTX Ltd and Nigel Crockett for Chief Business Officer Position; What is the expiration date of this contract?",
+      "tags": [
+        "cuad"
+      ],
+      "precision": 0.0,
+      "recall": 0.0,
+      "retrieved_chars": 2646,
+      "retrieved_snippets": [
+        {
+          "file_path": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+          "span": [
+            0,
+            258
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+          "span": [
+            258,
+            687
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+          "span": [
+            56312,
+            56765
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+          "span": [
+            7452,
+            7830
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "cuad/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+          "span": [
+            49255,
+            49722
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+          "span": [
+            281551,
+            281876
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "cuad/CANOPETROLEUM,INC_12_13_2007-EX-10.1-Sponsorship Agreement.txt",
+          "span": [
+            3523,
+            3661
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+          "span": [
+            112097,
+            112295
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Merger Agreement between \"TELEDYNE TECHNOLOGIES INCORPORATED\" and \"FLIR SYSTEMS, INC.\"; What is the Definition of \"Knowledge\"",
+      "tags": [
+        "maud"
+      ],
+      "precision": 0.06687211093990755,
+      "recall": 1.0,
+      "retrieved_chars": 3245,
+      "retrieved_snippets": [
+        {
+          "file_path": "maud/Inovalon_Holdings_Management_Led_Buyout.txt",
+          "span": [
+            37388,
+            37752
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+          "span": [
+            307907,
+            308359
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "maud/TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.txt",
+          "span": [
+            40212,
+            40527
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+          "span": [
+            5605,
+            6073
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+          "span": [
+            0,
+            491
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "maud/QAD Inc._Thoma Bravo, L.P..txt",
+          "span": [
+            32742,
+            33225
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+          "span": [
+            387175,
+            387395
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+          "span": [
+            311735,
+            312187
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Acquisition Agreement between Parent \"BridgeBio Pharma, Inc.\" and Target \"Eidos Therapeutics, Inc.\"; What is the Type of Consideration",
+      "tags": [
+        "maud"
+      ],
+      "precision": 0.0,
+      "recall": 0.0,
+      "retrieved_chars": 2021,
+      "retrieved_snippets": [
+        {
+          "file_path": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+          "span": [
+            5431,
+            5812
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+          "span": [
+            22032,
+            22057
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "maud/Inovalon_Holdings_Management_Led_Buyout.txt",
+          "span": [
+            69599,
+            69701
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+          "span": [
+            0,
+            449
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+          "span": [
+            92774,
+            93151
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+          "span": [
+            17497,
+            17963
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "maud/TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.txt",
+          "span": [
+            78553,
+            78636
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+          "span": [
+            37544,
+            37682
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider \"Viber Messenger\"'s privacy policy; who will be able to see my information and/or the messages that i send?",
+      "tags": [
+        "privacy_qa"
+      ],
+      "precision": 0.08043606364172068,
+      "recall": 1.0,
+      "retrieved_chars": 3394,
+      "retrieved_snippets": [
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            2766,
+            3243
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            1654,
+            2106
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            499,
+            899
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            16766,
+            17243
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            27101,
+            27542
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            15530,
+            15924
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            24557,
+            24972
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            12329,
+            12667
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider \"Fiverr\"'s privacy policy; who can see which tasks i hire workers for?",
+      "tags": [
+        "privacy_qa"
+      ],
+      "precision": 0.0,
+      "recall": 0.0,
+      "retrieved_chars": 2575,
+      "retrieved_snippets": [
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            2556,
+            3002
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            0,
+            172
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            3002,
+            3357
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            12570,
+            12941
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            23851,
+            24196
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            1809,
+            2248
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            25073,
+            25422
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            12134,
+            12232
+          ],
+          "score": 0.125
+        }
+      ]
+    }
+  ],
+  "B-hybrid-bm25": [
+    {
+      "query": "Consider the Agreement between SE_NDCA and PRE-QUAL PACKAGE; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+      "tags": [
+        "contractnli"
+      ],
+      "precision": 0.06831648658069013,
+      "recall": 1.0,
+      "retrieved_chars": 2869,
+      "retrieved_snippets": [
+        {
+          "file_path": "contractnli/sample-nrel-bilateral-nda-template.txt",
+          "span": [
+            7499,
+            7963
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
+          "span": [
+            4565,
+            4995
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+          "span": [
+            5410,
+            5710
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+          "span": [
+            7034,
+            7303
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+          "span": [
+            8943,
+            9345
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            13104,
+            13434
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            5131,
+            5481
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "contractnli/ceii-and-nda.txt",
+          "span": [
+            13816,
+            14140
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider VELCO's Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+      "tags": [
+        "contractnli"
+      ],
+      "precision": 0.0,
+      "recall": 0.0,
+      "retrieved_chars": 3253,
+      "retrieved_snippets": [
+        {
+          "file_path": "contractnli/sample-nrel-bilateral-nda-template.txt",
+          "span": [
+            7499,
+            7963
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "contractnli/VELCO%20NDA%20rev0%20Dec%2014%202015.txt",
+          "span": [
+            0,
+            498
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "contractnli/VELCO%20NDA%20rev0%20Dec%2014%202015.txt",
+          "span": [
+            3732,
+            4075
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "contractnli/Evelozcity%20OESA%20NDA.txt",
+          "span": [
+            4565,
+            4995
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+          "span": [
+            5410,
+            5710
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+          "span": [
+            8943,
+            9345
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "contractnli/VELCO%20NDA%20rev0%20Dec%2014%202015.txt",
+          "span": [
+            8924,
+            9274
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "contractnli/ExcelerateStandardNDAFormat.txt",
+          "span": [
+            5852,
+            6318
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Agency Agreement for Asset Sale between The Bon-Ton Stores, Inc., GA Retail, Inc., Tiger Capital Group, LLC, and Wilmington Savings Fund Society, FSB; Is there an anti-assignment clause in this contract?",
+      "tags": [
+        "cuad"
+      ],
+      "precision": 0.15431116767419661,
+      "recall": 1.0,
+      "retrieved_chars": 3143,
+      "retrieved_snippets": [
+        {
+          "file_path": "cuad/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+          "span": [
+            70,
+            542
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "cuad/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+          "span": [
+            135121,
+            135292
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "cuad/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+          "span": [
+            110433,
+            110904
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "cuad/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+          "span": [
+            132773,
+            133105
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "cuad/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+          "span": [
+            103310,
+            103703
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "cuad/ALCOSTORESINC_12_14_2005-EX-10.26-AGENCY AGREEMENT.txt",
+          "span": [
+            9923,
+            10310
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "cuad/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+          "span": [
+            105763,
+            106250
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "cuad/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+          "span": [
+            137088,
+            137518
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Service Agreement between BicycleTX Ltd and Nigel Crockett for Chief Business Officer Position; What is the expiration date of this contract?",
+      "tags": [
+        "cuad"
+      ],
+      "precision": 0.0,
+      "recall": 0.0,
+      "retrieved_chars": 2880,
+      "retrieved_snippets": [
+        {
+          "file_path": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+          "span": [
+            0,
+            258
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+          "span": [
+            258,
+            687
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "cuad/ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement.txt",
+          "span": [
+            1320,
+            1695
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+          "span": [
+            56312,
+            56765
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+          "span": [
+            7452,
+            7830
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "cuad/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+          "span": [
+            49255,
+            49722
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+          "span": [
+            24977,
+            25172
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+          "span": [
+            281551,
+            281876
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Acquisition Agreement between Parent \"REALTY INCOME CORPORATION\" and Target \"VEREIT, INC.\"; What is the Definition of \"Knowledge\"",
+      "tags": [
+        "maud"
+      ],
+      "precision": 0.05858585858585859,
+      "recall": 1.0,
+      "retrieved_chars": 2970,
+      "retrieved_snippets": [
+        {
+          "file_path": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+          "span": [
+            184314,
+            184677
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+          "span": [
+            336095,
+            336523
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+          "span": [
+            328615,
+            328948
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+          "span": [
+            246530,
+            247015
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+          "span": [
+            323718,
+            324087
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+          "span": [
+            337351,
+            337652
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+          "span": [
+            387175,
+            387395
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+          "span": [
+            198968,
+            199439
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider the Acquisition Agreement between Parent \"BridgeBio Pharma, Inc.\" and Target \"Eidos Therapeutics, Inc.\"; What is the Type of Consideration",
+      "tags": [
+        "maud"
+      ],
+      "precision": 0.0,
+      "recall": 0.0,
+      "retrieved_chars": 2743,
+      "retrieved_snippets": [
+        {
+          "file_path": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+          "span": [
+            5431,
+            5812
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+          "span": [
+            0,
+            449
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+          "span": [
+            271542,
+            272035
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+          "span": [
+            330381,
+            330831
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+          "span": [
+            22032,
+            22057
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "maud/Inovalon_Holdings_Management_Led_Buyout.txt",
+          "span": [
+            69599,
+            69701
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+          "span": [
+            92774,
+            93151
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+          "span": [
+            17497,
+            17963
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider \"Viber Messenger\"'s privacy policy; who will be able to see my information and/or the messages that i send?",
+      "tags": [
+        "privacy_qa"
+      ],
+      "precision": 0.08029411764705882,
+      "recall": 1.0,
+      "retrieved_chars": 3400,
+      "retrieved_snippets": [
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            2766,
+            3243
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            27101,
+            27542
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            1654,
+            2106
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            499,
+            899
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            9101,
+            9577
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            21976,
+            22334
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            24155,
+            24557
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "privacy_qa/Viber Messenger.txt",
+          "span": [
+            15530,
+            15924
+          ],
+          "score": 0.125
+        }
+      ]
+    },
+    {
+      "query": "Consider \"Fiverr\"'s privacy policy; who can see which tasks i hire workers for?",
+      "tags": [
+        "privacy_qa"
+      ],
+      "precision": 0.0,
+      "recall": 0.0,
+      "retrieved_chars": 2942,
+      "retrieved_snippets": [
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            2556,
+            3002
+          ],
+          "score": 1.0
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            3002,
+            3357
+          ],
+          "score": 0.5
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            0,
+            172
+          ],
+          "score": 0.3333333333333333
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            1809,
+            2248
+          ],
+          "score": 0.25
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            23851,
+            24196
+          ],
+          "score": 0.2
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            25073,
+            25422
+          ],
+          "score": 0.16666666666666666
+        },
+        {
+          "file_path": "privacy_qa/Fiverr.txt",
+          "span": [
+            12570,
+            12941
+          ],
+          "score": 0.14285714285714285
+        },
+        {
+          "file_path": "privacy_qa/Wordscapes.txt",
+          "span": [
+            13952,
+            14417
+          ],
+          "score": 0.125
+        }
+      ]
+    }
+  ]
+}

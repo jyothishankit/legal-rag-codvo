@@ -1,0 +1,59 @@
+{
+  "tests": [
+    {
+      "query": "Consider \"Keep\"'s privacy policy; who has access to my workout plans?",
+      "snippets": [
+        {
+          "file_path": "privacy_qa/Keep.txt",
+          "span": [
+            4004,
+            4242
+          ],
+          "answer": "Where we or our affiliate companies process your payments as a payment service provider, or where we fulfill any purchases you have made on Keep, we may collect, use and store your Personal Information in order to fulfill such purchases.\n"
+        },
+        {
+          "file_path": "privacy_qa/Keep.txt",
+          "span": [
+            5074,
+            5177
+          ],
+          "answer": "You may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram.\n"
+        }
+      ]
+    },
+    {
+      "query": "Consider \"Keep\"'s privacy policy; will my fitness coach share my information with others?",
+      "snippets": [
+        {
+          "file_path": "privacy_qa/Keep.txt",
+          "span": [
+            4004,
+            5177
+          ],
+          "answer": "Where we or our affiliate companies process your payments as a payment service provider, or where we fulfill any purchases you have made on Keep, we may collect, use and store your Personal Information in order to fulfill such purchases.\nLocation Data, Log Data and your device.Keep automatically collects Log Data from your device to enable and assist Keeps functionalities.\nIn addition, you may also permit Keep to access other content and data on your device  for example, your contact list and photo storage.\nOther than consented by you, we commit that we will not sell your personal information to any other third parties for their processing for any purposes.\nWe will ask for your explicit consent to share any sensitive personal information such as race, religion, sexual orientation, or health.\nWe will not disclose or transfer your personal information to any non-affiliated third parties, unless:\nYou may choose to share certain information.\nIn order to participate in certain features, you may have to adjust your Privacy settings and share more information.\nYou may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram.\n"
+        },
+        {
+          "file_path": "privacy_qa/Keep.txt",
+          "span": [
+            9454,
+            9692
+          ],
+          "answer": "If you are a minor, you can use the service only in conjunction with your parents or guardians.\nIf we are aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.\n"
+        }
+      ]
+    },
+    {
+      "query": "Consider \"Keep\"'s privacy policy; will my progress only be posted to social media if i want it to?",
+      "snippets": [
+        {
+          "file_path": "privacy_qa/Keep.txt",
+          "span": [
+            4807,
+            4911
+          ],
+          "answer": "We will not disclose or transfer your personal information to any non-affiliated third parties, unless:\n"
+        }
+      ]
+    }
+  ]
+}

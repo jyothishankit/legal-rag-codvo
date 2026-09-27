@@ -1,0 +1,43 @@
+{
+  "tests": [
+    {
+      "query": "Consider the Maintenance Agreement between Netzee, Inc. and Bankers Bank; What is the expiration date of this contract?",
+      "snippets": [
+        {
+          "file_path": "cuad/NETZEEINC_11_14_2002-EX-10.3-MAINTENANCE AGREEMENT.txt",
+          "span": [
+            543,
+            684
+          ],
+          "answer": "The maintenance is for a period of one (1) year commencing upon expiration of the initial one (1) year term of the License/Services Schedule."
+        }
+      ]
+    },
+    {
+      "query": "Consider the Maintenance Agreement between Netzee, Inc. and Bankers Bank; What is the renewal term for this contract?",
+      "snippets": [
+        {
+          "file_path": "cuad/NETZEEINC_11_14_2002-EX-10.3-MAINTENANCE AGREEMENT.txt",
+          "span": [
+            685,
+            958
+          ],
+          "answer": "Following the completion of such maintenance term, Bankers Bank may, at its option, renew maintenance for subsequent periods of one (1) year each, subject to adjustments proposed by Netzee not to exceed 5% at least sixty (60) days in advance of the applicable renewal date."
+        }
+      ]
+    },
+    {
+      "query": "Consider the Maintenance Agreement between Netzee, Inc. and Bankers Bank; Are there any price restrictions or controls specified in this contract?",
+      "snippets": [
+        {
+          "file_path": "cuad/NETZEEINC_11_14_2002-EX-10.3-MAINTENANCE AGREEMENT.txt",
+          "span": [
+            685,
+            958
+          ],
+          "answer": "Following the completion of such maintenance term, Bankers Bank may, at its option, renew maintenance for subsequent periods of one (1) year each, subject to adjustments proposed by Netzee not to exceed 5% at least sixty (60) days in advance of the applicable renewal date."
+        }
+      ]
+    }
+  ]
+}

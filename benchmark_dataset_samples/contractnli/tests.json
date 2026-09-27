@@ -1,0 +1,51 @@
+{
+  "tests": [
+    {
+      "query": "Consider APIC's Confidentiality Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?",
+      "snippets": [
+        {
+          "file_path": "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt",
+          "span": [
+            1493,
+            1797
+          ],
+          "answer": "e) All notes, reference materials, memoranda, documentation and records in any way incorporating or reflecting any of the Confidential Information shall belong exclusively to Owner and the undersigned agrees to turn over all copies of such materials in the undersigned’s possession to Owner upon request."
+        }
+      ]
+    },
+    {
+      "query": "Consider APIC's Confidentiality Agreement; Does the document state that Confidential Information shall only include technical information?",
+      "snippets": [
+        {
+          "file_path": "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt",
+          "span": [
+            577,
+            835
+          ],
+          "answer": "a) To hold in confidence any and all technical or business information about the company’s product which is disclosed, or made available to you directly or indirectly, or is information you otherwise receive incident to your participation in this discussion;"
+        }
+      ]
+    },
+    {
+      "query": "Consider APIC's Confidentiality Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?",
+      "snippets": [
+        {
+          "file_path": "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt",
+          "span": [
+            1286,
+            1492
+          ],
+          "answer": "d) That you, shall at all times hold in trust, keep confidential and not disclose to any third party or make any use of the Confidential Information beyond those activities that are part of the Focus Group."
+        },
+        {
+          "file_path": "contractnli/Focus-Group-APIC-Seattle-Confidentiality-Agreement-031115.txt",
+          "span": [
+            2004,
+            2179
+          ],
+          "answer": "I shall at all times hold in trust, keep confidential and not disclose to any third party or make any use of the identity or PII of any Respondent involved in the Focus Group."
+        }
+      ]
+    }
+  ]
+}
