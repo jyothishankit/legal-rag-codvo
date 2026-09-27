@@ -6,7 +6,7 @@ WORKDIR /app
 
 COPY pyproject.toml ./
 COPY legalrag ./legalrag
-RUN pip install --no-cache-dir -e ".[ui]"
+RUN pip install --no-cache-dir -e .
 
 # Inside compose, Pinecone Local is reachable by service name rather than localhost.
 ENV PINECONE_LOCAL_HOST=http://pinecone:5080 \

@@ -1,4 +1,4 @@
-# COMS-579 — Advanced Legal RAG
+# Advanced Legal RAG
 
 A retrieval-augmented generation system for legal documents, evaluated against
 [LegalBench-RAG](https://arxiv.org/abs/2408.10343).
@@ -41,7 +41,7 @@ ablation ladder.
 
 ```bash
 python3.10 -m venv .venv && source .venv/bin/activate
-pip install -e ".[dev,ui]"
+pip install -e ".[dev]"
 
 cp .env.example .env     # then add your OpenAI key
 docker compose up -d pinecone
@@ -61,8 +61,8 @@ you do, rotate it.
 
 ```bash
 # Ask a question over your own documents
-legalrag ask "What is the relation between hypermutable brains and age?" \
-    -f genemutation.pdf -f LLMbasedTesting.pdf -f psychiatry.pdf --show-spans
+legalrag ask "Which party may terminate the agreement for convenience?" \
+    -f contract.pdf --show-spans
 
 # Reproduce the published baseline
 legalrag eval --baseline
@@ -72,12 +72,6 @@ legalrag eval --strategy configs/advanced.json
 
 # Ablation ladder on a fast subset
 legalrag sweep configs/ablations.json --max-tests 25
-```
-
-The original Funix UI still works:
-
-```bash
-funix upload.py
 ```
 
 ## Architecture
@@ -137,13 +131,3 @@ The suite covers the invariants that character-level scoring depends on: exact
 tiling, span/text agreement, sentence-splitter contiguity, whitespace trimming,
 disjointness of returned snippets, and the metric definitions themselves.
 
-## Prior coursework
-
-Earlier assignment demos (Weaviate + HuggingFace embeddings):
-
-- [Indexing, splitting, nearest-vector retrieval](https://iowastate-my.sharepoint.com/:v:/g/personal/ankitj99_iastate_edu/EUq64OGM_hBDp7dMt2a3cKIBYyaCtLqWBXxUOPpYhfvHlw)
-- [Question answering](https://iowastate-my.sharepoint.com/:v:/g/personal/ankitj99_iastate_edu/Ecx-X8sHRqpHvACr5i7t9M0BxoP0wwvTVvg0VENKHbD0rg)
-- [Funix UI](https://iowastate-my.sharepoint.com/:v:/g/personal/ajayt_iastate_edu/Ecm6ZZDB9QdHo2rm6IGtYuUBrkuPYTEZl36GJwATGZLu1Q)
-
-`docker compose --profile legacy up -d` still starts the Weaviate service those
-demos used.
