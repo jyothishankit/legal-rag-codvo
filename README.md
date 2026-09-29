@@ -3,6 +3,11 @@
 A retrieval-augmented generation system for legal documents, evaluated against
 [LegalBench-RAG](https://arxiv.org/abs/2408.10343).
 
+
+DEMO:
+https://www.youtube.com/watch?v=4zXmZK5_9lI
+
+
 ```
 PDF / text  →  chunk  →  OpenAI embeddings  →  Pinecone  →  rerank  →  refine  →  LLM
 ```
